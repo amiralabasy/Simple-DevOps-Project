@@ -63,9 +63,9 @@ Although this project is forked, all the pipeline setup and execution was done b
 
 ## 📬 Contact
 
-- GitHub: https://github.com/amir-alabasy  
+- GitHub: https://github.com/amiralabasy  
 - Email: amiralabasy856@gmail.com  
-- LinkedIn: (add your link if you have)
+- LinkedIn: https://www.linkedin.com/in/amir-alabasy
 
 ---
 
