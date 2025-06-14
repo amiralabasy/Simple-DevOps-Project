@@ -1,39 +1,72 @@
-# Simple DevOps CI/CD Project (Applied by Amir Alabasy)
+# Simple DevOps Project (Applied by Amir Alabasy)
 
-This is a hands-on implementation of a full DevOps pipeline, based on an open-source project.  
-I forked and applied the entire process myself step by step to gain real-world experience in CI/CD and DevOps tools.
+This is a practical implementation of a CI/CD pipeline using popular DevOps tools.  
+The original project was created by @yankils, and I (Amir Alabasy) forked it to apply and practice the steps hands-on.
 
-## 🔧 Tools Used
+---
 
-- Git & GitHub
-- Jenkins
-- Maven
-- Docker
-- Ansible
-- Kubernetes (EKS on AWS)
+## 🚀 Tools & Technologies Used
 
-## 📦 What I Did
+- Git & GitHub (Version Control)
+- Jenkins (CI)
+- Maven (Build Tool)
+- Docker (Containerization)
+- DockerHub (Image Registry)
+- Ansible (Configuration Management)
+- Kubernetes (EKS on AWS) (Orchestration)
+- AWS CLI & kubectl
 
-- Cloned the project and configured Jenkins pipeline
+---
+
+## 🔧 What I Did (My Hands-on Practice)
+
+- Forked the project and cloned it locally
+- Set up Jenkins server and created pipelines
 - Built the application using Maven
 - Created a Docker image and pushed it to DockerHub
-- Deployed the application on a Kubernetes cluster (EKS)
-- Used Ansible for provisioning and configuration
-- Monitored and tested the deployment
+- Wrote an Ansible playbook to provision the environment
+- Deployed the app on AWS using Kubernetes (EKS)
+- Connected all steps in a complete CI/CD workflow
+- Tested everything from source code to live deployment
 
-## 📁 Project Source
+---
 
-This repo is a fork of: https://github.com/yankils/Simple-DevOps-Project  
-But all the CI/CD setup and deployment was done by me (Amir Alabasy).
+## 🧠 What I Learned
 
-## 🧠 My Learning
+- End-to-end automation of DevOps pipelines
+- How CI/CD tools integrate with each other
+- Docker image building & publishing
+- Kubernetes basics and deploying microservices
+- Writing Jenkinsfile and Ansible playbooks
+- Debugging real-world deployment issues
 
-This project helped me understand:
-- How CI/CD works from code to production
-- Integration between Jenkins, Docker, Kubernetes
-- Writing Jenkinsfiles and automating pipelines
+---
+
+## 📂 Original Project
+
+This is a fork of the open-source project:  
+https://github.com/yankils/Simple-DevOps-Project
+
+---
+
+## 👨‍💻 My Contribution (By Amir Alabasy)
+
+Although this project is forked, all the pipeline setup and execution was done by me to improve my DevOps skills.
+
+✔️ I wrote and tested the Jenkins pipeline  
+✔️ I created and pushed Docker images  
+✔️ I configured Ansible playbooks and roles  
+✔️ I deployed on AWS EKS using kubectl  
+✔️ I tested the pipeline end-to-end
+
+---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/amir-alabasy
-- Email: amiralabasy856@gmail.com
+- GitHub: https://github.com/amir-alabasy  
+- Email: amiralabasy856@gmail.com  
+- LinkedIn: (add your link if you have)
+
+---
+
+Thanks for visiting! ⭐
